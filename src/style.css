@@ -1,0 +1,14 @@
+.bodyy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column-reverse;
+    background-color: brown;
+}
+.btn{
+    background-color: red;
+}
+.cardd{
+    border: 50px;
+}
